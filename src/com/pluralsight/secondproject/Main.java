@@ -18,6 +18,7 @@ public class Main {
             }
             if (count > 1 && string[i] != '0')
                 System.out.println(string[i]);
+            // test
         }
 
     }
